@@ -10,6 +10,7 @@ This repository contains practical exercises (TPs) related to point cloud proces
 - [Lab 4: 3D Reconstruction](#lab-4-3d-reconstruction)
 
 ## Lab 1: Point Cloud Structures and Neighborhoods
+[Lab 1 Report](Lab1/TPX_LAFAYE_DE_MICHEAUX_KOUVATSEAS.pdf)  
 [Lab 1 PDF](Lab1/TP1_Structures_Neighborhoods.pdf)
 
 **Objective:**
@@ -19,14 +20,15 @@ This repository contains practical exercises (TPs) related to point cloud proces
 - Compute point neighborhoods using brute-force search and KD-trees.
 
 ### Files:
-- **[`Lab 1/code/neighborhoods.py`](Lab1/code/neighborhoods.py)** – Implements neighborhood search algorithms.
-- **[`Lab 1/code/ply.py`](Lab1/code/ply.py)** – Handles PLY file I/O.
-- **[`Lab 1/code/subsampling.py`](Lab1/code/subsampling.py)** – Implements point cloud decimation.
-- **[`Lab 1/data/indoor_scan.ply`](Lab1/data/indoor_scan.ply)**, **[`Lab 1/data/bunny.ply`](Lab1/data/bunny.ply)** – Example point clouds for testing.
+- **[`Lab1/code/neighborhoods.py`](Lab1/code/neighborhoods.py)** – Implements neighborhood search algorithms.
+- **[`Lab1/code/ply.py`](Lab1/code/ply.py)** – Handles PLY file I/O.
+- **[`Lab1/code/subsampling.py`](Lab1/code/subsampling.py)** – Implements point cloud decimation.
+- **[`Lab1/data/indoor_scan.ply`](Lab1/data/indoor_scan.ply)**, **[`Lab1/data/bunny.ply`](Lab1/data/bunny.ply)** – Example point clouds for testing.
 
 ---
 
 ## Lab 2: Iterative Closest Point (ICP) Algorithm
+[Lab 2 Report](Lab2/TPX_LAFAYE_DE_MICHEAUX_KOUVATSEAS.pdf)  
 [Lab 2 PDF](Lab2/TP2_Recalage_ICP.pdf)
 
 **Objective:**
@@ -35,15 +37,16 @@ This repository contains practical exercises (TPs) related to point cloud proces
 - Evaluate ICP convergence using RMS error.
 
 ### Files:
-- **[`Lab 2/code/ICP.py`](Lab2/code/ICP.py)** – Implements the ICP algorithm.
-- **[`Lab 2/code/ply.py`](Lab2/code/ply.py)** – Handles PLY file I/O.
-- **[`Lab 2/code/visu.py`](Lab2/code/visu.py)** – Visualization tools for ICP results.
-- **[`Lab 2/data/bunny_original.ply`](Lab2/data/bunny_original.ply)**, **[`Lab 2/data/bunny_perturbed.ply`](Lab2/data/bunny_perturbed.ply)** – 3D models used for alignment.
-- **[`Lab 2/data/ref2D.ply`](Lab2/data/ref2D.ply)**, **[`Lab 2/data/data2D.ply`](Lab2/data/data2D.ply)** – 2D point clouds for testing ICP.
+- **[`Lab2/code/ICP.py`](Lab2/code/ICP.py)** – Implements the ICP algorithm.
+- **[`Lab2/code/ply.py`](Lab2/code/ply.py)** – Handles PLY file I/O.
+- **[`Lab2/code/visu.py`](Lab2/code/visu.py)** – Visualization tools for ICP results.
+- **[`Lab2/data/bunny_original.ply`](Lab2/data/bunny_original.ply)**, **[`Lab2/data/bunny_perturbed.ply`](Lab2/data/bunny_perturbed.ply)** – 3D models used for alignment.
+- **[`Lab2/data/ref2D.ply`](Lab2/data/ref2D.ply)**, **[`Lab2/data/data2D.ply`](Lab2/data/data2D.ply)** – 2D point clouds for testing ICP.
 
 ---
 
 ## Lab 3: Neighborhood Descriptors
+[Lab 3 Report](Lab3/TPX_LAFAYE_DE_MICHEAUX_KOUVATSEAS.pdf)  
 [Lab 3 PDF](Lab3/TP3_Descripteurs.pdf)
 
 **Objective:**
