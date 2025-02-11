@@ -10,7 +10,7 @@ This repository contains practical exercises (TPs) related to point cloud proces
 - [Lab 4: 3D Reconstruction](#lab-4-3d-reconstruction)
 
 ## Lab 1: Point Cloud Structures and Neighborhoods
-[Lab 1 Report](Lab1/TPX_LAFAYE_DE_MICHEAUX_KOUVATSEAS.pdf)  
+[Lab 1 Report](Lab1/TP1_LAFAYE_DE_MICHEAUX_KOUVATSEAS.pdf)  
 [Lab 1 PDF](Lab1/TP1_Structures_Neighborhoods.pdf)
 
 **Objective:**
@@ -28,7 +28,7 @@ This repository contains practical exercises (TPs) related to point cloud proces
 ---
 
 ## Lab 2: Iterative Closest Point (ICP) Algorithm
-[Lab 2 Report](Lab2/TPX_LAFAYE_DE_MICHEAUX_KOUVATSEAS.pdf)  
+[Lab 2 Report](Lab2/TP2_LAFAYE_DE_MICHEAUX_KOUVATSEAS.pdf)  
 [Lab 2 PDF](Lab2/TP2_Recalage_ICP.pdf)
 
 **Objective:**
@@ -46,7 +46,7 @@ This repository contains practical exercises (TPs) related to point cloud proces
 ---
 
 ## Lab 3: Neighborhood Descriptors
-[Lab 3 Report](Lab3/TPX_LAFAYE_DE_MICHEAUX_KOUVATSEAS.pdf)  
+[Lab 3 Report](Lab3/TP3_LAFAYE_DE_MICHEAUX_KOUVATSEAS.pdf)  
 [Lab 3 PDF](Lab3/TP3_Descripteurs.pdf)
 
 **Objective:**
@@ -62,6 +62,7 @@ This repository contains practical exercises (TPs) related to point cloud proces
 ---
 
 ## Lab 4: 3D Reconstruction
+[Lab 4 Report](Lab4/TP4_LAFAYE_DE_MICHEAUX_KOUVATSEAS.pdf)  
 [Lab 4 PDF](Lab4/TP4_Reconstruction.pdf)
 
 **Objective:**
