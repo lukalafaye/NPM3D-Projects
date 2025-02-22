@@ -1,3 +1,5 @@
 Lab5/data/indoor_scan.ply filter=lfs diff=lfs merge=lfs -text
 Lab6/data/ModelNet/ModelNet10_PLY.zip filter=lfs diff=lfs merge=lfs -text
 Lab6/data/ModelNet/ModelNet40_PLY.zip filter=lfs diff=lfs merge=lfs -text
+Lab6/data/ModelNet10_PLY.zip filter=lfs diff=lfs merge=lfs -text
+Lab6/data/ModelNet40_PLY.zip filter=lfs diff=lfs merge=lfs -text

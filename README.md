@@ -75,6 +75,23 @@ This repository contains practical exercises (TPs) related to point cloud proces
 
 ---
 
+## Lab 5: Plane Detection & Modelization
+[Lab 5 Report](Lab5/TP5_LAFAYE_DE_MICHEAUX_KOUVATSEAS.pdf)  
+[Lab 5 PDF](Lab5/TP5_Modelisation.pdf)
+
+**Objective:**
+- Implement plane detection using RANSAC.
+- Extract multiple planes recursively (with or without normals).
+- (Bonus) Accelerate RANSAC using parallel processing.
+
+### Files:
+- **[`Lab5/code/ransac.py`](Lab5/code/ransac.py)** – Main RANSAC plane detection script.
+- **[`Lab5/code/ply.py`](Lab5/code/ply.py)** – Handles PLY file I/O.
+- **[`Lab5/code/descriptors.py`](Lab5/code/descriptors.py)**, **[`Lab5/code/classification.py`](Lab5/code/classification.py)** – Extra tools for normal estimation and classification.
+- **[`Lab5/data/indoor_scan.ply`](Lab5/data/indoor_scan.ply)** – Large indoor point cloud for testing.
+
+---
+
 ## How to Run the Code
 1. Install dependencies: `pip install numpy scipy scikit-learn matplotlib`
 2. Run individual scripts within each `code/` directory to execute the respective lab tasks.
