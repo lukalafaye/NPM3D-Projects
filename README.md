@@ -8,6 +8,8 @@ This repository contains practical exercises (TPs) related to point cloud proces
 - [Lab 2: Iterative Closest Point (ICP) Algorithm](#lab-2-iterative-closest-point-icp-algorithm)
 - [Lab 3: Neighborhood Descriptors](#lab-3-neighborhood-descriptors)
 - [Lab 4: 3D Reconstruction](#lab-4-3d-reconstruction)
+- [Lab 5: Plane Detection & Modelization](#lab-5-plane-detection--modelization)
+- [Lab 6: Deep Learning for Point Cloud Classification](#lab-6-deep-learning-for-point-cloud-classification)
 
 ## Lab 1: Point Cloud Structures and Neighborhoods
 [Lab 1 Report](Lab1/TP1_LAFAYE_DE_MICHEAUX_KOUVATSEAS.pdf)  
@@ -89,6 +91,21 @@ This repository contains practical exercises (TPs) related to point cloud proces
 - **[`Lab5/code/ply.py`](Lab5/code/ply.py)** – Handles PLY file I/O.
 - **[`Lab5/code/descriptors.py`](Lab5/code/descriptors.py)**, **[`Lab5/code/classification.py`](Lab5/code/classification.py)** – Extra tools for normal estimation and classification.
 - **[`Lab5/data/indoor_scan.ply`](Lab5/data/indoor_scan.ply)** – Large indoor point cloud for testing.
+
+---
+
+## Lab 6: Deep Learning for Point Cloud Classification
+[Lab 6 Report](Lab6/TP6_Deep_Learning.pdf)
+
+**Objective:**
+- Implement deep learning-based classification for point clouds.
+- Train and test **PointNet** on **ModelNet10** and **ModelNet40** datasets.
+- Understand the structure of neural networks for 3D object recognition.
+
+### Files:
+- **[`Lab6/code/pointnet.py`](Lab6/code/pointnet.py)** – Implementation of PointNet for classification.
+- **[`Lab6/code/ply.py`](Lab6/code/ply.py)** – Handles PLY file I/O.
+- **[`Lab6/data/ModelNet10_PLY.zip`](Lab6/data/ModelNet10_PLY.zip)**, **[`Lab6/data/ModelNet40_PLY.zip`](Lab6/data/ModelNet40_PLY.zip)** – Datasets for training and evaluation.
 
 ---
 
