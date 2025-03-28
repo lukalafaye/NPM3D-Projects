@@ -95,7 +95,8 @@ This repository contains practical exercises (TPs) related to point cloud proces
 ---
 
 ## Lab 6: Deep Learning for Point Cloud Classification
-[Lab 6 Report](Lab6/TP6_Deep_Learning.pdf)
+[Lab 6 Report](Lab6/TP6_LAFAYE_DE_MICHEAUX_KOUVATSEAS.pdf)  
+[Lab 6 PDF](Lab6/TP6_Deep_Learning.pdf)
 
 **Objective:**
 - Implement deep learning-based classification for point clouds.
